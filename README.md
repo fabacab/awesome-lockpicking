@@ -1,6 +1,7 @@
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Build status](https://travis-ci.org/meitar/awesome-lockpicking.svg?branch=master)](https://travis-ci.org/meitar/awesome-lockpicking)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
@@ -41,7 +42,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 # Online communities
 
 * [Keypicking.com](https://keypicking.com/) - A bustling online forum for the discussion of lockpicking and locksport.
-* [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
+* [Lockpicking101.com](http://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
 * [LockWiki](http://lockwiki.com/) - A community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - A subreddit dedicated to the sport of lockpicking.
 
