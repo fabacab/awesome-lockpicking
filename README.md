@@ -42,7 +42,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 # Online communities
 
 * [Keypicking.com](https://keypicking.com/) - A bustling online forum for the discussion of lockpicking and locksport.
-* [Lockpicking101.com](http://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
+* [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
 * [LockWiki](http://lockwiki.com/) - A community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - A subreddit dedicated to the sport of lockpicking.
 
