@@ -33,6 +33,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - A widely-distributed beginner's manual with diagrams showcasing how to pick various entry-level locks.
 * [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - A famous introductory text by Ted the Tool.
 * [Lock Picking: Detail Overkill](http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
+* [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - A complete start-to-finish course from basic tensioning to speciality lock techniques.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - A website "dedicated to the science and study of forensic locksmithing."
 
 # Locksport associations and organizations
