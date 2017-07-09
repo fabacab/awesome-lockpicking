@@ -12,6 +12,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
 * [Online communities](#online-communities)
 * [Vendors](#vendors)
+* [Hobby projects](#hobby-projects)
 
 # Books
 
@@ -53,3 +54,8 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
+* [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
+
+# Hobby projects
+
+* [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
