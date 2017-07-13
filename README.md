@@ -16,7 +16,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 # Books
 
-* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](https://www.amazon.com/Practical-Lock-Picking-Physical-Penetration/dp/1597496111/) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
 
 # Contests, conferences, and events
 
