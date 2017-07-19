@@ -8,11 +8,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 
 * [Books](#books)
 * [Contests, conferences, and events](#contests-conferences-and-events)
+* [Hobby projects](#hobby-projects)
 * [How-to guides](#how-to-guides)
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
 * [Online communities](#online-communities)
 * [Vendors](#vendors)
-* [Hobby projects](#hobby-projects)
 
 # Books
 
@@ -24,6 +24,11 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [DEF CON](https://defcon.org/) - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
 * [Hackers On Planet Earth (HOPE)](https://hope.net/) - Annual conference often featuring a locksport competition and presentations on physical security.
 * [OzLockCon](https://ozlockcon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
+* [LockCon](https://toool.nl/LockCon) - Annual, invitation-only international conference about locks for members of respected locksport organizations.
+
+# Hobby projects
+
+* [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
 
 # How-to guides
 
@@ -35,7 +40,7 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - Famous introductory text by Ted the Tool.
 * [Lock Picking: Detail Overkill](http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
-* [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
+* [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
 # Locksport associations and organizations
 
@@ -49,6 +54,12 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
 
+# Online resources
+
+* [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
+* [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
+* [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+
 # Vendors
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
@@ -56,7 +67,3 @@ If you want to contribute, you are highly encouraged to do so. Please read the [
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
-
-# Hobby projects
-
-* [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
