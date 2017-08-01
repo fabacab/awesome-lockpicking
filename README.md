@@ -40,10 +40,12 @@
 * [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - Famous introductory text by Ted the Tool.
 * [Lock Picking: Detail Overkill](http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
+* [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - Locksport primer in the style of a comic book, with photographs and speech bubbles.
 * [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
 # Locksport associations and organizations
 
+* [Fraternal Order of Lock Sport](http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 
