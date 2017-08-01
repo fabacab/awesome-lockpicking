@@ -45,7 +45,7 @@
 
 # Locksport associations and organizations
 
-* [Fraternal Order of Lock Sport](http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
+* [Fraternal Order of Lock Sport (FOOLS)](http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 
