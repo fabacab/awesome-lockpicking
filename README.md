@@ -66,6 +66,7 @@
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
+* [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
