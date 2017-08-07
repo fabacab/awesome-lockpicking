@@ -34,6 +34,7 @@
 
 * [Art of Lockpicking](https://art-of-lockpicking.com/) - Educational website with animations detailing the process of picking locks.
 * [Beginner's Guide to Security Pins](http://www.ninjacache.com/secpins_intro) - Short article guiding beginners comfortable with picking padlocks towards an understanding of more complex locks.
+* [BosnianBill's Lock Picking for Beginners](https://www.youtube.com/playlist?list=PLTSWkYxuSlkXiSBwk3Hvbvx71sg-MH61s) - YouTube playlist of selected instructional videos sorted in order from first principles to techniques for specific locks.
 * [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
 * [Deviant Ollam's Lockpicking Video Presentations and Advisories](http://deviating.net/lockpicking/videos.html) - Collection of physec talks and locksport advice for all skill levels from a world-reknowned expert.
 * [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - Widely-distributed beginner's manual with diagrams showcasing how to pick various entry-level locks.
