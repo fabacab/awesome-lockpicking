@@ -67,6 +67,7 @@
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 * [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
+* [Mad Bob Picks](https://www.madbobpicks.co.uk/) - UK-based manufacturer of lock pick accessories, notable for their [Jackknifes](https://www.madbobpicks.co.uk/Jackknifes-s/116.htm) and lifetime warranty.
 * [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their [top-of-keyway turning tools](https://www.thinkpeterson.com/cgi-bin/commerce.cgi?preadd=action&key=PPB) are famous but overpriced (you can make your own).
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
