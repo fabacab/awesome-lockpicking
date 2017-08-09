@@ -29,6 +29,10 @@
 # Hobby projects
 
 * [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
+* [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
+* [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
+* [Making Turning Tools - Lockpick Extreme](https://lockpickextreme.com/2017/01/31/project-making-turning-tools/) - Photographed guide for making bottom turners and top turners from windshield wiper blades.
 
 # How-to guides
 
