@@ -9,7 +9,7 @@
 * [Books](#books)
 * [Contests, conferences, and events](#contests-conferences-and-events)
 * [Hobby projects](#hobby-projects)
-* [How-to guides](#how-to-guides)
+* [How-to lockpicking guides](#how-to-lockpicking-guides)
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
 * [Online communities](#online-communities)
 * [Vendors](#vendors)
@@ -33,8 +33,9 @@
 * [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
 * [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
 * [Making Turning Tools - Lockpick Extreme](https://lockpickextreme.com/2017/01/31/project-making-turning-tools/) - Photographed guide for making bottom turners and top turners from windshield wiper blades.
+* [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
-# How-to guides
+# How-to lockpicking guides
 
 * [Art of Lockpicking](https://art-of-lockpicking.com/) - Educational website with animations detailing the process of picking locks.
 * [Beginner's Guide to Security Pins](http://www.ninjacache.com/secpins_intro) - Short article guiding beginners comfortable with picking padlocks towards an understanding of more complex locks.
@@ -46,7 +47,6 @@
 * [Lock Picking: Detail Overkill](http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 * [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - Locksport primer in the style of a comic book, with photographs and speech bubbles.
-* [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
 # Locksport associations and organizations
 
