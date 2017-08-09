@@ -32,7 +32,6 @@
 * [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
 * [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
 * [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
-* [Making Turning Tools - Lockpick Extreme](https://lockpickextreme.com/2017/01/31/project-making-turning-tools/) - Photographed guide for making bottom turners and top turners from windshield wiper blades.
 * [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
 # How-to lockpicking guides
@@ -71,6 +70,7 @@
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 * [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
+* [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
 * [Mad Bob Picks](https://www.madbobpicks.co.uk/) - UK-based manufacturer of lock pick accessories, notable for their [Jackknifes](https://www.madbobpicks.co.uk/Jackknifes-s/116.htm) and lifetime warranty.
 * [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their [top-of-keyway turning tools](https://www.thinkpeterson.com/cgi-bin/commerce.cgi?preadd=action&key=PPB) are famous but overpriced (you can make your own).
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
