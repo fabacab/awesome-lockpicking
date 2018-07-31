@@ -74,7 +74,7 @@
 * [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
 * [Mad Bob Picks](https://www.madbobpicks.co.uk/) - UK-based manufacturer of lock pick accessories, notable for their Jackknifes and lifetime warranty.
 * [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their [top-of-keyway turning tools](https://www.thinkpeterson.com/cgi-bin/commerce.cgi?preadd=action&key=PPB) are famous but overpriced (you can make your own).
-* [Pick Pals] (https://www.pickpals.com.au/) - Vendors serviving locksporting supplies for Australia and New Zealand.
+* [Pick Pals] (https://www.pickpals.com.au/) - Vendors servicing locksporting supplies for Australia and New Zealand.
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/) - SouthOrd® is a manufacturer of lock picks and professional locksmith tools; individual replacement picks as low as $1.50 USD.
