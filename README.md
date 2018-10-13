@@ -66,6 +66,7 @@
 * [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+*[LockLab University](https://locklab.com/locklab-university) - easy and basic lock picking tutorials
 
 # Vendors
 
