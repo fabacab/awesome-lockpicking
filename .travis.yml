@@ -1,7 +1,10 @@
+---
 language: ruby
 rvm:
-  - 2.2
-before_script:
+  - 2.4.1
+
+install:
   - gem install awesome_bot
+
 script:
-- awesome_bot README.md --allow-redirect --white-list "www.lockpicking101.com"
+  - awesome_bot README.md --allow-redirect --white-list "lockpickextreme.com,www.lockpicking101.com"
