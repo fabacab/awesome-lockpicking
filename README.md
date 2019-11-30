@@ -2,7 +2,7 @@
 
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
-[Lock picking](https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or its door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
+[Lock picking](https://en.wikipedia.org/wiki/Lock_picking) is the art of opening a lock without the key and without damaging or destroying the lock or it's door. If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](CONTRIBUTING.md).
 
 # Contents
 
