@@ -17,6 +17,7 @@
 # Books
 
 * [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+* [Locks, Safes and Security: An International Police Reference](https://www.goodreads.com/en/book/show/525753.Locks_Safes_and_Security) - Information on locks, safes and security by Marc Weber Tobias.
 
 # Contests, conferences, and events
 
