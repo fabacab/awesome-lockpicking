@@ -12,6 +12,7 @@
 * [How-to lockpicking guides](#how-to-lockpicking-guides)
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
 * [Online communities](#online-communities)
+* [Online resources](#online-resources)
 * [Vendors](#vendors)
 
 # Books
@@ -65,10 +66,10 @@
 
 # Online resources
 
-* [Dark Sim 905's Lockpicking pages](https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
+* [Dark Sim 905's Lockpicking pages](https://web.archive.org/web/20191127182007/https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
 * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
-* [Raking Techniques](http://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
+* [Raking Techniques](https://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
 
 # Vendors
 
