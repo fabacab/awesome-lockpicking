@@ -22,7 +22,7 @@
 * [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
 * [Locks, Safes and Security: An International Police Reference](https://www.goodreads.com/en/book/show/525753.Locks_Safes_and_Security) - Information on locks, safes and security by Marc Weber Tobias.
 * [Practical Lock Picking by Deviant Ollam, 2012](https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
-* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](https://web.archive.org/web/20200309084722/http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
 
 # Contests, conferences, and events
 
