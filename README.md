@@ -17,8 +17,12 @@
 
 # Books
 
-* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
+* [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
+* [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
+* [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
 * [Locks, Safes and Security: An International Police Reference](https://www.goodreads.com/en/book/show/525753.Locks_Safes_and_Security) - Information on locks, safes and security by Marc Weber Tobias.
+* [Practical Lock Picking by Deviant Ollam, 2012](https://www.elsevier.com/books/practical-lock-picking/ollam/978-1-59749-989-7)
+* [Practical Lock Picking: A Physical Penetration Tester's Training Guide](http://www.rageuniversity.org/PRISONESCAPE/PRISON%20LOCKS%20AND%20KEYS/Practical.Lock.Picking.pdf) - Detailed instructions and exercises designed for professional physical security specialists, consultants, and red teams.
 
 # Contests, conferences, and events
 
@@ -68,8 +72,9 @@
 
 * [Dark Sim 905's Lockpicking pages](https://web.archive.org/web/20191127182007/https://darksim905.com/lockpicking.php) - Personal website of a knowledgable hobbyist discussing a variety of picking and bypass tools.
 * [Lockpicking Forensics](http://www.lockpickingforensics.com/) - Website "dedicated to the science and study of forensic locksmithing."
-* [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
 * [Raking Techniques](https://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
+* [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
+* [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
 
 # Vendors
 
