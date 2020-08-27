@@ -60,7 +60,7 @@
 * [Fraternal Order of Lock Sport (FOOLS)](http://www.bloomingtonfools.org/) - Lock picking club established to serve Bloomington, Indiana and surrounding areas.
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
-* [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
+* [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://blog.ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
 
 # Novel lock attack techniques and research
 
