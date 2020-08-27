@@ -11,6 +11,7 @@
 * [Hobby projects](#hobby-projects)
 * [How-to lockpicking guides](#how-to-lockpicking-guides)
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
+* [Novel lock attack techniques and research](#novel-lock-attack-techniques-and-research)
 * [Online communities](#online-communities)
 * [Online resources](#online-resources)
 * [Vendors](#vendors)
@@ -60,6 +61,10 @@
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
+
+# Novel lock attack techniques and research
+
+* [SpiKey](https://www.comp.nus.edu.sg/~junhan/papers/SpiKey_HotMobile20_CamReady.pdf) - Acoustic-based physical key inference.
 
 # Online communities
 
