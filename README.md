@@ -52,7 +52,7 @@
 * [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - Widely-distributed beginner's manual with diagrams showcasing how to pick various entry-level locks.
 * [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - Famous introductory text by Ted the Tool.
 * [Lock Picking: Detail Overkill](https://web.archive.org/web/20170730120626/http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
-* [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
+* [LockLab's Lock Picking Course](https://locklab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 * [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - Locksport primer in the style of a comic book, with photographs and speech bubbles.
 
 # Locksport associations and organizations
