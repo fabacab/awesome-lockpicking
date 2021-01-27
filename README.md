@@ -30,7 +30,7 @@
 * [Chaos Communications Congress (CCC)](https://www.ccc.de/) - CCC hosts the German Lockpicking Championships.
 * [DEF CON](https://defcon.org/) - Annual infosec industry conference which is popular with many lockpickers featuring a locksport contest.
 * [Hackers On Planet Earth (HOPE)](https://hope.net/) - Annual conference often featuring a locksport competition and presentations on physical security.
-* [OzLockCon](https://ozlockcon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
+* [OzSecCon](https://ozseccon.com/) - Open community event focusing on physical security in Australia, which hosts a lockpicking and handcuff evasion competition.
 * [LockCon](https://toool.nl/LockCon) - Annual, invitation-only international conference about locks for members of respected locksport organizations.
 
 # Hobby projects
