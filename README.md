@@ -18,6 +18,8 @@
 
 # Books
 
+* [The National Locksmith guide to MANIPULATION - Robert Gene Sieveking](https://html.duckduckgo.com/html?q=The%20National%20Locksmith%20guide%20to%20MANIPULATION%20%2D%20Robert%20Gene%20Sieveking)
+* [Advanced lock picking secrets - Steven Hampton](https://www.amazon.com/Advanced-Picking-Secrets-Steven-Hampton/dp/0873645154/ref=sr_1_1?dchild=1&keywords=Advanced+lock+picking+secrets+-+Steven+Hampton%5D&qid=1614258866&sr=8-1)
 * [Locksmith and Security Professionals Exam Study Guide - Bill Phillips](https://www.amazon.com/Locksmith-Security-Professionals-Study-Guide/dp/0071549811/ref=sr_1_1?dchild=1&keywords=Locksmith+and+Security+Professionals+Exam+Study+Guide+-+Bill+Phillips&qid=1614258901&sr=8-1)
 * [Secrets of lock picking - Steven Hampton](https://www.amazon.com/Secrets-Lock-Picking-Steven-Hampton/dp/0873644239/ref=sr_1_2?dchild=1&keywords=Secrets+of+lock+picking+-+Steven+Hampton&qid=1614258914&sr=8-2)
 * [Bumping locks - Barry Wels and Rob Gonggrijp](https://toool.nl/images/7/75/Bumping.pdf)
