@@ -18,6 +18,8 @@
 
 # Books
 
+* [High-Security Mechanical Locks - Graham Pulford](https://www.amazon.com/High-Security-Mechanical-Locks-Encyclopedic-Reference/dp/0750684372/ref=sr_1_2?dchild=1&keywords=High-Security+Mechanical+Locks+-+Graham+Pulford&qid=1614259299&sr=8-2)
+* [Keys to understanding tubular locks (the combat bookshelf) - Desert](https://www.amazon.com/Understanding-Tubular-Locks-Combat-bookshelf/dp/0879471042/ref=sr_1_1?dchild=1&keywords=Keys+to+understanding+tubular+locks+%28the+combat+bookshelf%29+-+Desert&qid=1614259355&sr=8-1)
 * [Open the door – classic the ultimative locksmith guide - Michael Bubl](https://www.ebookee.net/PDF-Open-The-Door-The-Ultimative-Locksmith-Guide_3425363.html)
 * [Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding - Benjamin Laxton, Kai Wang and Stefan Savage](http://vision.ucsd.edu/~blaxton/pagePapers/laxton_wang_savage_ccs2008.pdf) 
 * [Modern High security locks: how to open them - Steven Hampton](https://www.amazon.com/Modern-High-security-Locks-Open-Them/dp/1581602952/ref=sr_1_1?dchild=1&keywords=Modern+High+security+locks%3A+how+to+open+them+-+Steven+Hampton&qid=1614259434&sr=8-1)
