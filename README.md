@@ -18,6 +18,8 @@
 
 # Books
 
+* [Bumping locks - Barry Wels and Rob Gonggrijp](https://toool.nl/images/7/75/Bumping.pdf)
+* [CIA Lock Picking Field Operative Training Manual](https://www.amazon.com/Lockpicking-Manual-Central-Intelligence-Agency-ebook/dp/B071R6324R/ref=sr_1_1?dchild=1&keywords=CIA+Lock+Picking+Field+Operative+Training+Manual&qid=1614259166&sr=8-1)
 * [Confessions of a locksmith – An insider's Guide to Securing Your Home and Business - Justin Fankhauser](https://www.goodreads.com/book/show/23876505-confessions-of-a-locksmith)
 * [Cryptology and Physical Security: Rights Amplification in Master-Keyed Mechanical Locks - Matt Blaze](https://archive.org/details/Cryptology_and_Physical_Security_Rights_Amplification_in_Master-Keyed_Mechanical)
 * [Easy Pickings - Charles Edward Remington III](https://www.amazon.com/Pickings-Teaching-manual-Technique-Lockpicking/dp/B001TJWH9I/ref=sr_1_1?dchild=1&keywords=Easy+Pickings+-+Charles+Edward+Remington+III&qid=1614259222&sr=8-1)
