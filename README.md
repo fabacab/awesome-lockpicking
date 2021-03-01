@@ -18,6 +18,8 @@
 
 # Books
 
+* [Open the door – classic the ultimative locksmith guide - Michael Bubl](https://www.ebookee.net/PDF-Open-The-Door-The-Ultimative-Locksmith-Guide_3425363.html)
+* [Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding - Benjamin Laxton, Kai Wang and Stefan Savage](http://vision.ucsd.edu/~blaxton/pagePapers/laxton_wang_savage_ccs2008.pdf) 
 * [Modern High security locks: how to open them - Steven Hampton](https://www.amazon.com/Modern-High-security-Locks-Open-Them/dp/1581602952/ref=sr_1_1?dchild=1&keywords=Modern+High+security+locks%3A+how+to+open+them+-+Steven+Hampton&qid=1614259434&sr=8-1)
 * [The complete book of locks and locksmithing, seventh edition - Bill Phillips](https://www.amazon.com/Complete-Book-Locks-Locksmithing-Seventh/dp/1259834689/ref=sr_1_1?dchild=1&keywords=The+complete+book+of+locks+and+locksmithing%2C+seventh+edition+-+Bill+Phillips&qid=1614259450&sr=8-1)
 * [Visual guide to lock picking - Mark McCloud and Gonzalez de Santos](https://www.amazon.com/Visual-Guide-Lock-Picking-McCloud/dp/0970978863/ref=sr_1_1?dchild=1&keywords=Visual+guide+to+lock+picking+-+Mark+McCloud+and+Gonzalez+de+Santos&qid=1614259468&sr=8-1)
