@@ -18,6 +18,8 @@
 
 # Books
 
+* [Locksmith and Security Professionals Exam Study Guide - Bill Phillips](https://www.amazon.com/Locksmith-Security-Professionals-Study-Guide/dp/0071549811/ref=sr_1_1?dchild=1&keywords=Locksmith+and+Security+Professionals+Exam+Study+Guide+-+Bill+Phillips&qid=1614258901&sr=8-1)
+* [Secrets of lock picking - Steven Hampton](https://www.amazon.com/Secrets-Lock-Picking-Steven-Hampton/dp/0873644239/ref=sr_1_2?dchild=1&keywords=Secrets+of+lock+picking+-+Steven+Hampton&qid=1614258914&sr=8-2)
 * [Bumping locks - Barry Wels and Rob Gonggrijp](https://toool.nl/images/7/75/Bumping.pdf)
 * [CIA Lock Picking Field Operative Training Manual](https://www.amazon.com/Lockpicking-Manual-Central-Intelligence-Agency-ebook/dp/B071R6324R/ref=sr_1_1?dchild=1&keywords=CIA+Lock+Picking+Field+Operative+Training+Manual&qid=1614259166&sr=8-1)
 * [Confessions of a locksmith – An insider's Guide to Securing Your Home and Business - Justin Fankhauser](https://www.goodreads.com/book/show/23876505-confessions-of-a-locksmith)
