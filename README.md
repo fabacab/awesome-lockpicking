@@ -94,6 +94,7 @@
 * [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
 * [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
+* [Abstract Security](https://discord.gg/zn3wsrr) - Discord server dedicated to Physical Security (which covers Lock Picking)
 
 # Online resources
 
