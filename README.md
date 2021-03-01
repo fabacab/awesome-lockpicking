@@ -18,6 +18,8 @@
 
 # Books
 
+* [Easy Pickings - Charles Edward Remington III](https://www.amazon.com/Pickings-Teaching-manual-Technique-Lockpicking/dp/B001TJWH9I/ref=sr_1_1?dchild=1&keywords=Easy+Pickings+-+Charles+Edward+Remington+III&qid=1614259222&sr=8-1)
+* [How to open locks with improvised tools - Conkel Hans](https://www.amazon.com/Open-Locks-Improvised-Tools-Non-Destructive/dp/0966608712/ref=sr_1_1?dchild=1&keywords=How+to+open+locks+with+improvised+tools+-+Conkel+Hans&qid=1614259275&sr=8-1)
 * [High-Security Mechanical Locks - Graham Pulford](https://www.amazon.com/High-Security-Mechanical-Locks-Encyclopedic-Reference/dp/0750684372/ref=sr_1_2?dchild=1&keywords=High-Security+Mechanical+Locks+-+Graham+Pulford&qid=1614259299&sr=8-2)
 * [Keys to understanding tubular locks (the combat bookshelf) - Desert](https://www.amazon.com/Understanding-Tubular-Locks-Combat-bookshelf/dp/0879471042/ref=sr_1_1?dchild=1&keywords=Keys+to+understanding+tubular+locks+%28the+combat+bookshelf%29+-+Desert&qid=1614259355&sr=8-1)
 * [Open the door – classic the ultimative locksmith guide - Michael Bubl](https://www.ebookee.net/PDF-Open-The-Door-The-Ultimative-Locksmith-Guide_3425363.html)
