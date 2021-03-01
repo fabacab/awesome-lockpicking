@@ -18,6 +18,8 @@
 
 # Books
 
+* [Modern High security locks: how to open them - Steven Hampton](https://www.amazon.com/Modern-High-security-Locks-Open-Them/dp/1581602952/ref=sr_1_1?dchild=1&keywords=Modern+High+security+locks%3A+how+to+open+them+-+Steven+Hampton&qid=1614259434&sr=8-1)
+* [The complete book of locks and locksmithing, seventh edition - Bill Phillips](https://www.amazon.com/Complete-Book-Locks-Locksmithing-Seventh/dp/1259834689/ref=sr_1_1?dchild=1&keywords=The+complete+book+of+locks+and+locksmithing%2C+seventh+edition+-+Bill+Phillips&qid=1614259450&sr=8-1)
 * [Visual guide to lock picking - Mark McCloud and Gonzalez de Santos](https://www.amazon.com/Visual-Guide-Lock-Picking-McCloud/dp/0970978863/ref=sr_1_1?dchild=1&keywords=Visual+guide+to+lock+picking+-+Mark+McCloud+and+Gonzalez+de+Santos&qid=1614259468&sr=8-1)
 * [Unauthorised Access: Physical Penetration Testing for IT Security Teams - Will Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617/ref=sr_1_fkmr0_1?dchild=1&keywords=Unauthorised+Access%3A+Physical+Penetration+Testing+for+IT+Security+Teams+-+Will+Allsopp%5D&qid=1614259482&sr=8-1-fkmr0)
 * [The use of locks in physical crime prevention - James M Edgar and William D Mclnerey](https://www.scribd.com/book/282594402/The-Use-of-Locks-in-Physical-Crime-Prevention-National-Crime-Prevention-Institute)
