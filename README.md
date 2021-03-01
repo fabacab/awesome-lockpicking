@@ -18,6 +18,8 @@
 
 # Books
 
+* [Confessions of a locksmith – An insider's Guide to Securing Your Home and Business - Justin Fankhauser](https://www.goodreads.com/book/show/23876505-confessions-of-a-locksmith)
+* [Cryptology and Physical Security: Rights Amplification in Master-Keyed Mechanical Locks - Matt Blaze](https://archive.org/details/Cryptology_and_Physical_Security_Rights_Amplification_in_Master-Keyed_Mechanical)
 * [Easy Pickings - Charles Edward Remington III](https://www.amazon.com/Pickings-Teaching-manual-Technique-Lockpicking/dp/B001TJWH9I/ref=sr_1_1?dchild=1&keywords=Easy+Pickings+-+Charles+Edward+Remington+III&qid=1614259222&sr=8-1)
 * [How to open locks with improvised tools - Conkel Hans](https://www.amazon.com/Open-Locks-Improvised-Tools-Non-Destructive/dp/0966608712/ref=sr_1_1?dchild=1&keywords=How+to+open+locks+with+improvised+tools+-+Conkel+Hans&qid=1614259275&sr=8-1)
 * [High-Security Mechanical Locks - Graham Pulford](https://www.amazon.com/High-Security-Mechanical-Locks-Encyclopedic-Reference/dp/0750684372/ref=sr_1_2?dchild=1&keywords=High-Security+Mechanical+Locks+-+Graham+Pulford&qid=1614259299&sr=8-2)
