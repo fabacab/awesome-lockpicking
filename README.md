@@ -18,6 +18,8 @@
 
 # Books
 
+* [Visual guide to lock picking - Mark McCloud and Gonzalez de Santos](https://www.amazon.com/Visual-Guide-Lock-Picking-McCloud/dp/0970978863/ref=sr_1_1?dchild=1&keywords=Visual+guide+to+lock+picking+-+Mark+McCloud+and+Gonzalez+de+Santos&qid=1614259468&sr=8-1)
+* [Unauthorised Access: Physical Penetration Testing for IT Security Teams - Will Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617/ref=sr_1_fkmr0_1?dchild=1&keywords=Unauthorised+Access%3A+Physical+Penetration+Testing+for+IT+Security+Teams+-+Will+Allsopp%5D&qid=1614259482&sr=8-1-fkmr0)
 * [The use of locks in physical crime prevention - James M Edgar and William D Mclnerey](https://www.scribd.com/book/282594402/The-Use-of-Locks-in-Physical-Crime-Prevention-National-Crime-Prevention-Institute)
 * [Expedient B and E: Tactics and techniques for bypassing alarms and defeating locks - Carl Hammer](https://www.amazon.com/Expedient-Tactics-Techniques-Bypassing-Defeating/dp/0873646886/ref=sr_1_1?dchild=1&keywords=Expedient+B+and+E%3A+Tactics+and+techniques+for+bypassing+alarms+and+defeating+locks+-+Carl+Hammer&qid=1614259517&sr=8-1)
 * [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
@@ -63,9 +65,6 @@
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://blog.ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
-* [The Open Organization Of Lockpickers UK (TOOOL UK)](https://toool.uk/) 
-* [The Open Organization Of Lockpickers Netherlands (TOOOL NL)](https://toool.nl/Toool)
-* [Abstract Security ](https://discord.gg/zn3wsrr) - Discord server dedicated to Physical Security ( which covers Lock Picking)
 
 # Novel lock attack techniques and research
 
