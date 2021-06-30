@@ -18,6 +18,26 @@
 
 # Books
 
+* [The National Locksmith guide to MANIPULATION - Robert Gene Sieveking](https://html.duckduckgo.com/html?q=The%20National%20Locksmith%20guide%20to%20MANIPULATION%20%2D%20Robert%20Gene%20Sieveking)
+* [Advanced lock picking secrets - Steven Hampton](https://www.amazon.com/Advanced-Picking-Secrets-Steven-Hampton/dp/0873645154/ref=sr_1_1?dchild=1&keywords=Advanced+lock+picking+secrets+-+Steven+Hampton%5D&qid=1614258866&sr=8-1)
+* [Locksmith and Security Professionals Exam Study Guide - Bill Phillips](https://www.amazon.com/Locksmith-Security-Professionals-Study-Guide/dp/0071549811/ref=sr_1_1?dchild=1&keywords=Locksmith+and+Security+Professionals+Exam+Study+Guide+-+Bill+Phillips&qid=1614258901&sr=8-1)
+* [Secrets of lock picking - Steven Hampton](https://www.amazon.com/Secrets-Lock-Picking-Steven-Hampton/dp/0873644239/ref=sr_1_2?dchild=1&keywords=Secrets+of+lock+picking+-+Steven+Hampton&qid=1614258914&sr=8-2)
+* [Bumping locks - Barry Wels and Rob Gonggrijp](https://toool.nl/images/7/75/Bumping.pdf)
+* [CIA Lock Picking Field Operative Training Manual](https://www.amazon.com/Lockpicking-Manual-Central-Intelligence-Agency-ebook/dp/B071R6324R/ref=sr_1_1?dchild=1&keywords=CIA+Lock+Picking+Field+Operative+Training+Manual&qid=1614259166&sr=8-1)
+* [Confessions of a locksmith – An insider's Guide to Securing Your Home and Business - Justin Fankhauser](https://www.goodreads.com/book/show/23876505-confessions-of-a-locksmith)
+* [Cryptology and Physical Security: Rights Amplification in Master-Keyed Mechanical Locks - Matt Blaze](https://archive.org/details/Cryptology_and_Physical_Security_Rights_Amplification_in_Master-Keyed_Mechanical)
+* [Easy Pickings - Charles Edward Remington III](https://www.amazon.com/Pickings-Teaching-manual-Technique-Lockpicking/dp/B001TJWH9I/ref=sr_1_1?dchild=1&keywords=Easy+Pickings+-+Charles+Edward+Remington+III&qid=1614259222&sr=8-1)
+* [How to open locks with improvised tools - Conkel Hans](https://www.amazon.com/Open-Locks-Improvised-Tools-Non-Destructive/dp/0966608712/ref=sr_1_1?dchild=1&keywords=How+to+open+locks+with+improvised+tools+-+Conkel+Hans&qid=1614259275&sr=8-1)
+* [High-Security Mechanical Locks - Graham Pulford](https://www.amazon.com/High-Security-Mechanical-Locks-Encyclopedic-Reference/dp/0750684372/ref=sr_1_2?dchild=1&keywords=High-Security+Mechanical+Locks+-+Graham+Pulford&qid=1614259299&sr=8-2)
+* [Keys to understanding tubular locks (the combat bookshelf) - Desert](https://www.amazon.com/Understanding-Tubular-Locks-Combat-bookshelf/dp/0879471042/ref=sr_1_1?dchild=1&keywords=Keys+to+understanding+tubular+locks+%28the+combat+bookshelf%29+-+Desert&qid=1614259355&sr=8-1)
+* [Open the door – classic the ultimative locksmith guide - Michael Bubl](https://www.ebookee.net/PDF-Open-The-Door-The-Ultimative-Locksmith-Guide_3425363.html)
+* [Reconsidering Physical Key Secrecy: Teleduplication via Optical Decoding - Benjamin Laxton, Kai Wang and Stefan Savage](http://vision.ucsd.edu/~blaxton/pagePapers/laxton_wang_savage_ccs2008.pdf) 
+* [Modern High security locks: how to open them - Steven Hampton](https://www.amazon.com/Modern-High-security-Locks-Open-Them/dp/1581602952/ref=sr_1_1?dchild=1&keywords=Modern+High+security+locks%3A+how+to+open+them+-+Steven+Hampton&qid=1614259434&sr=8-1)
+* [The complete book of locks and locksmithing, seventh edition - Bill Phillips](https://www.amazon.com/Complete-Book-Locks-Locksmithing-Seventh/dp/1259834689/ref=sr_1_1?dchild=1&keywords=The+complete+book+of+locks+and+locksmithing%2C+seventh+edition+-+Bill+Phillips&qid=1614259450&sr=8-1)
+* [Visual guide to lock picking - Mark McCloud and Gonzalez de Santos](https://www.amazon.com/Visual-Guide-Lock-Picking-McCloud/dp/0970978863/ref=sr_1_1?dchild=1&keywords=Visual+guide+to+lock+picking+-+Mark+McCloud+and+Gonzalez+de+Santos&qid=1614259468&sr=8-1)
+* [Unauthorised Access: Physical Penetration Testing for IT Security Teams - Will Allsopp](https://www.amazon.com/Unauthorised-Access-Physical-Penetration-Security/dp/0470747617/ref=sr_1_fkmr0_1?dchild=1&keywords=Unauthorised+Access%3A+Physical+Penetration+Testing+for+IT+Security+Teams+-+Will+Allsopp%5D&qid=1614259482&sr=8-1-fkmr0)
+* [The use of locks in physical crime prevention - James M Edgar and William D Mclnerey](https://www.scribd.com/book/282594402/The-Use-of-Locks-in-Physical-Crime-Prevention-National-Crime-Prevention-Institute)
+* [Expedient B and E: Tactics and techniques for bypassing alarms and defeating locks - Carl Hammer](https://www.amazon.com/Expedient-Tactics-Techniques-Bypassing-Defeating/dp/0873646886/ref=sr_1_1?dchild=1&keywords=Expedient+B+and+E%3A+Tactics+and+techniques+for+bypassing+alarms+and+defeating+locks+-+Carl+Hammer&qid=1614259517&sr=8-1)
 * [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
 * [Expedient B and E: Tactics and Techniques for Bypassing Alarms and Defeating Locks - Carl Hammer](https://www.amazon.com/Expedient-Tactics-Techniques-Bypassing-Defeating/dp/0873646886/)
 * [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
@@ -63,6 +83,8 @@
 * [The Open Organization Of Lockpickers (TOOOL)](https://toool.org/) - Worldwide association of lockpickers with national, regional, and local chapters.
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://blog.ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
+* [The Open Organization Of Lockpickers UK (TOOOL UK)](https://toool.uk/) 
+* [The Open Organization Of Lockpickers Netherlands (TOOOL NL)](https://toool.nl/Toool)
 
 # Novel lock attack techniques and research
 
@@ -74,6 +96,7 @@
 * [Lockpicking101.com](https://www.lockpicking101.com/) - One of the longest-running online communities "dedicated to the fun and ethical hobby of lock picking."
 * [LockWiki](http://lockwiki.com/) - Community-driven reference for both beginners and professionals in the security industry.
 * [/r/lockpicking Subreddit](https://www.reddit.com/r/lockpicking/) - Subreddit dedicated to the sport of lockpicking.
+* [Abstract Security](https://discord.gg/zn3wsrr) - Discord server dedicated to Physical Security (which covers Lock Picking)
 
 # Online resources
 
