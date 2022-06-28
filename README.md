@@ -82,6 +82,7 @@
 * [Raking Techniques](https://elvencraft.com/lpd/Raking%20Techniques.html) - Raking techniques illustrated with awesome animations.
 * [Schuyler Towne channel](https://www.youtube.com/user/SchuylerTowne/) - Lockpicking videos and security talks.
 * [The Amazing King's Lockpicking pages](http://theamazingking.com/lockpicking.php) - Hobbyist's website with detailed pages about locks, tools, and picking techniques.
+* [LockJudge](https://lockjudge.com/) - Website about lockpicking and high-quality locks from the lockpicking community
 
 # Vendors
 
@@ -95,3 +96,5 @@
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
 * [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.
+* [Covert instruments](https://covertinstruments.com/) - Lockpick store of the LockPickingLawyer 
+* 
